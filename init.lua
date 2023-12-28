@@ -1,3 +1,4 @@
+require "base.bindings"
 require "base.settings"
 
 local lazypath = vim.fn.stdpath("data") .. "/lazy/lazy.nvim"
