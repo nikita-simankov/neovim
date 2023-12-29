@@ -19,3 +19,5 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 require("lazy").setup("plugins")
+
+vim.cmd[[hi NvimTreeNormal guibg=NONE ctermbg=NONE]]

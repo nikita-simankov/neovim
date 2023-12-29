@@ -3,8 +3,8 @@ require("lualine").setup({
     theme = "catppuccin",
     icons_enabled = true,
     section_separators = {
-      left = "",
-      right = "",
+      left = "",
+      right = "",
     },
     always_divide_middle = true,
   },
